@@ -1,5 +1,7 @@
 # Compiled Python files
 *.pyc
+.env
+secret.py
 
 # Folder view configuration files
 .DS_Store
